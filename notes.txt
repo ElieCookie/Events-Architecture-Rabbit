@@ -1,0 +1,4 @@
+- add a main to each of the service and run them eparately on separate ports 
+- create a docker file for each of them and create an image for them 
+- create one docker compose file and add all the data there
+- run the docker compose file
